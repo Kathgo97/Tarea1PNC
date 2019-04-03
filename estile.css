@@ -1,0 +1,46 @@
+
+table {
+  margin: 0 auto;
+}
+
+#box1salmon{
+width:300px;
+margin:10px 50px;
+padding:20px;
+font-size:bold;
+background-color:#FA8072;
+}
+
+#box2lsalmon{
+width:150px;
+margin:10px 50px;
+padding:20px;
+font-size:italic;
+background-color: #FFA07A;
+}
+
+.bold{
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+}
+
+.justify{
+  text-align: justify;
+}
+
+.textoReceta{
+  font-size: 18px;
+}
+
+.white{
+  color: white;
+  font-style: italic;
+}
+
+.center{
+  text-align: center;
+  font-size: 365%;
+  font-style: italic;
+  color: #FA8072;
+}
